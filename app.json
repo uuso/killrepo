@@ -1,0 +1,7 @@
+{
+  "name": "git&heroku practice",
+  "description": "practice in git & heroku",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle" ],
+}
+
